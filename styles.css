@@ -1,0 +1,50 @@
+body{
+background-color: aquamarine;}
+h1 {
+    color:blue;
+    font-family: cursive;
+    font-size: 250%;
+}
+p {
+    color: coral;
+    font-family: 'Courier New', Courier, monospace;   
+}
+h3 {
+    border: 10px solid green;
+    padding: 10px;
+}
+h4 {
+    border: 6px dotted ;
+    padding: 12px;
+    font-size: 200%;
+    margin: 70px;
+}
+a{
+    color: red;
+}
+a:link {
+color: pink;
+text-decoration: none;
+background-color: brown;
+}
+a:visited {
+color:yellow;
+text-decoration: underline;
+}
+a:active {
+color:blue;
+text-decoration:none;
+
+}
+a:hover {
+    color:red;
+    text-decoration: underline;
+    background-color: blue;
+}
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+  }
+  th, td {
+      padding: 20px;
+  }
