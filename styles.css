@@ -14,14 +14,12 @@ h3 {
     padding: 10px;
 }
 h4 {
-    border: 6px dotted ;
+    border: 6px dotted white ;
     padding: 12px;
     font-size: 200%;
     margin: 70px;
 }
-a{
-    color: red;
-}
+
 a:link {
 color: pink;
 text-decoration: none;
